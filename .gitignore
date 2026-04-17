@@ -1,0 +1,5 @@
+/data/LUNA16
+/data/processed
+checkpoints/
+logs/
+**/__pycache__/**
